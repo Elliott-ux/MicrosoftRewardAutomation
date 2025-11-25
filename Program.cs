@@ -46,7 +46,7 @@ namespace MicrosoftRewardAutomation
             {
                 Console.WriteLine("脚本出错辣，下面是出错内容。");
                 Console.WriteLine(e.Message);
-            }        
+            }
         }
 
         /// <summary>
